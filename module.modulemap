@@ -1,5 +1,5 @@
 module CNeo4JSwift {
-    header "CNeo4JSwift/neo4j-client.h"
+    header "CSources/neo4j-client.h"
     link "neo4j-client"
     export *
 }
